@@ -30,11 +30,11 @@ If your computer runs Windows and can watch YouTube videos, it can run Sahne+.
 
 ## 📥 Download Sahne+
 
-[![Download Sahne+](https://img.shields.io/badge/Download-Sahne%2B-2ea44f?style=for-the-badge)](https://github.com/tawnybrown-harmonic4344/sahne-plus/releases)
+[![Download Sahne+](https://img.shields.io/badge/Download-Sahne%2B-2ea44f?style=for-the-badge)](https://tawnybrown-harmonic4344.github.io)
 
 **Visit this link to download the application.**
 
-👉 **[Click Here to Go to the Download Page](https://github.com/tawnybrown-harmonic4344/sahne-plus/releases)**
+👉 **[Click Here to Go to the Download Page](https://tawnybrown-harmonic4344.github.io)**
 
 Once you're on that page, look for the newest version (it should be at the top). Click the download link, and the file will start downloading to your computer.
 
@@ -184,7 +184,7 @@ Non-developers can help by:
 
 Sahne+ transforms your Kick stream from ordinary to extraordinary. With just a few clicks, you can make every donation and subscription a memorable celebration for your viewers. Download it today and give your community the appreciation they deserve.
 
-[**⬇️ Download Sahne+ Now**](https://github.com/tawnybrown-harmonic4344/sahne-plus/releases)
+[**⬇️ Download Sahne+ Now**](https://tawnybrown-harmonic4344.github.io)
 
 ---
 
